@@ -1,3 +1,4 @@
 git init
 git add .
 git commit -m "Some message"
+git remote add origin "https://github.com/kaviprashaadl/Git_basics.git"
